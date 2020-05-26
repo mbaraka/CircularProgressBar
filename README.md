@@ -63,6 +63,10 @@ You must use the following properties in your XML to change your CircularProgres
 | `app:cpb_round_border`                           | boolean                                                      | false                 |
 | `app:cpb_start_angle`                            | float                                                        | 0f (=top)             |
 | `app:cpb_progress_direction`                     | to_right or to_left                                          | to_right              |
+| `app:cpb_show_progress_text`                     | boolean                                                      | false            |
+| `app:cpb_text_color`                             | color                                                        | same color as progress bar            |
+| `app:cpb_text_size`                              | color                                                        | color as progress bar            |
+
 
 KOTLIN
 -----
